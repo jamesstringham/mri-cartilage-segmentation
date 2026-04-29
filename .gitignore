@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+*.pth.tar
+*.h5
+*.im
+*.seg
+data/
+work/
+logs/
